@@ -1,0 +1,6 @@
+name: UIStudioScreenCapacityFix
+version: '1.0.0'
+main: id.roleplay.uistudioscreencapacityfix.UIStudioScreenCapacityFix
+api-version: '1.21'
+softdepend: [UIStudio]
+description: Keeps UIStudio row capacity independent of fullscreen/windowed GUI height.
